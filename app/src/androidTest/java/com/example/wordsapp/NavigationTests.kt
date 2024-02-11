@@ -14,7 +14,7 @@ import androidx.test.runner.AndroidJUnit4
 import junit.framework.TestCase.assertEquals
 import org.junit.runner.RunWith
 
-
+//https://developer.android.com/guide
 @RunWith(AndroidJUnit4::class) //1. Указываю поля исполнителя тестов
 class NavigationTests {
 
